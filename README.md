@@ -23,6 +23,8 @@
 
 ---
 
+<!---
+
 <h2 align="center">⚡ Recent Activity:</h2>
 
 <div align="center">
@@ -31,7 +33,6 @@
 
 ---
 
-<!---
 agreic/agreic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
