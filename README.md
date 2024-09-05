@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!">
 </p>
 
+<!---
 ---
 
 <h2 align="center">📊 GitHub Stats:</h2>
@@ -23,7 +24,7 @@
 
 ---
 
-<!---
+
 
 <h2 align="center">⚡ Recent Activity:</h2>
 
