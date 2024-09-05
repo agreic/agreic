@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Aurimas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
@@ -29,6 +29,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=agreic&bg_color=1a1b27&color=ff00c8&line=ff00c8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
+---
 
 <!---
 agreic/agreic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
