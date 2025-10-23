@@ -94,11 +94,7 @@ Tools for analyzing biological networks, identifying key regulatory nodes, and p
 
 <div align="center"> -->
   
-  ---
-  
-  ### Tech I Like
-  
-</div>
+<!-- </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -108,7 +104,7 @@ Tools for analyzing biological networks, identifying key regulatory nodes, and p
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<div align="center">
+<div align="center"> -->
   
   ---
   
