@@ -9,7 +9,7 @@
 Hi, I'm a PhD Candidate at ETH Zurich, working in the [Cell Systems Dynamics group](https://bsse.ethz.ch/csd).
 
 I am very open to interesting conversations and collaborations, particularly for topics that include one or more of the following:  
-bio-image analysis • deep learning for bio • simulating biology • biological mechanisms, structure, and optimization • predicting biology
+bio-image analysis • deep learning for bio • simulating biology
 
 I mainly use **Python**, but I am also a fan of **C++** and have **Rust** on my (far) to-learn list.
 
