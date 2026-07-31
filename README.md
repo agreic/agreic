@@ -17,7 +17,7 @@ I mainly use **Python**, but I am also a fan of **C++** and have **Rust** on my 
 
 ---
 
-### 🏆 Recent Highlights
+### 🏆 Highlights
 **Winner, Read-Write-Grow '25 European Biotech Hackathon**
 * 🥇 **1st Place Overall:** Led the development of **[SynBioGuard](https://github.com/agreic/SynBioGuard)**, a biosecurity screening system.
 * **Awards:** Won the XynaBio's *Smart AI Design Prize* and Amplisynth's *Most Interesting Application Prize*.
